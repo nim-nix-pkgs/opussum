@@ -11,6 +11,7 @@
   inputs.src-opussum-master.ref   = "refs/heads/master";
   inputs.src-opussum-master.owner = "ire4ever1190";
   inputs.src-opussum-master.repo  = "opussum";
+  inputs.src-opussum-master.dir   = "";
   inputs.src-opussum-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
