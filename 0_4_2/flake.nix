@@ -11,7 +11,6 @@
   inputs.src-opussum-0_4_2.ref   = "refs/tags/0.4.2";
   inputs.src-opussum-0_4_2.owner = "ire4ever1190";
   inputs.src-opussum-0_4_2.repo  = "opussum";
-  inputs.src-opussum-0_4_2.dir   = "";
   inputs.src-opussum-0_4_2.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
