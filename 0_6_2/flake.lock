@@ -37,10 +37,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-opussum-master": "src-opussum-master"
+        "src-opussum-0_6_2": "src-opussum-0_6_2"
       }
     },
-    "src-opussum-master": {
+    "src-opussum-0_6_2": {
       "flake": false,
       "locked": {
         "lastModified": 1656849766,
@@ -52,7 +52,7 @@
       },
       "original": {
         "owner": "ire4ever1190",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/0.6.2",
         "repo": "opussum",
         "type": "github"
       }
